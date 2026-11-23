@@ -7,6 +7,9 @@
     <Nullable>enable</Nullable>
     <AssemblyName>Custom Sensitivity</AssemblyName>
     <RootNamespace>CustomSensitivity</RootNamespace>
+    <AssemblyTitle>Custom Sensitivity</AssemblyTitle>
+    <Product>Custom Sensitivity</Product>
+    <Description>Exact mouse sensitivity settings for GTA V profiles.</Description>
     <ApplicationIcon>Assets\sens.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>

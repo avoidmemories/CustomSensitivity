@@ -5,4 +5,5 @@ publish/
 *.user
 *.suo
 *.pdb
+icon-*.png
 *.sensitivity-backup-*.bin
